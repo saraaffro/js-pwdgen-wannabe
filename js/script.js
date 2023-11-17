@@ -14,8 +14,8 @@ let favColor = prompt("Inserisci il tuo colore preferito");
 // console.log(favColor);
 
 // risultato della password
-const userPassword = userName + userSurname + favColor + 23
+const userPassword = userName + userSurname + favColor + 23;
 // console.log(userPassword); 
 
-document.getElementById("my_text").innerHTML = 'Ecco la tua password ' + userPassword
+document.getElementById("my_text").innerHTML = 'Ecco la tua password ' + userPassword;
 
